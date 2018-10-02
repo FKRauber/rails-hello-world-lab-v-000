@@ -1,1 +1,3 @@
-class ApplicationController < ApplicationController::Base
+class StaticController < ApplicationController
+
+end
