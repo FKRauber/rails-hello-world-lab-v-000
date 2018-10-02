@@ -1,0 +1,1 @@
+class ApplicationController < ApplicationController::Base
